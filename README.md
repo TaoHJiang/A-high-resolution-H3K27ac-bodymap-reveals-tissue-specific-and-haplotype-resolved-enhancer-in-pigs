@@ -1,5 +1,5 @@
-# A high-resolution H3K27ac bodymap reveals tissue-specific and haplotype-resolved enhancer in pigs
-Code of analysis during study of "A-high-resolution-H3K27ac-bodymap-reveals-tissue-specific-and-haplotype-resolved-enhancer-in-pigs"
+# A high-resolution H3K27ac bodymap reveals tissue-specific and haplotype-resolved enhancers in pigs
+Code of analysis during study of "A-high-resolution-H3K27ac-bodymap-reveals-tissue-specific-and-haplotype-resolved-enhancers-in-pigs"
 
 ## 1.Introduction
 
